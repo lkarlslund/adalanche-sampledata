@@ -1,6 +1,6 @@
 # Adalanche Sample Data
 
-*Sample data for [Adalanche - Active Directory ACL Visualizer and Explorer](https://github.com/lkarlslund/Adalanche)*
+*Explore the GOAD Active Directory lab in 5 minutes with [Adalanche - Active Directory ACL Visualizer and Explorer](https://github.com/lkarlslund/Adalanche)*
 
 ![Adalanche screenshot](images/screenshot.png)
 
@@ -19,9 +19,11 @@ Load this into [Adalanche](https://github.com/lkarlslund/Adalanche) by following
 2. Clone this repository, or download as a ZIP file and decompress it
 3. Launch Adalanche, pointing it to your cloned repository: ```adalanche analyze --datapath [path-to-cloned-repository]/goad/```
 
-## If you want more
+## Next steps
 
-If you want to deploy the lab, there's a [script for Ubuntu 22.04](https://github.com/lkarlslund/deploy-goad) available, or visit the [GOAD lab repository](https://github.com/Orange-Cyberdefense/GOAD) directly.
+Documentation for Adalanche: information in the [readne](https://github.com/lkarlslund/Adalanche)
+Deploy the lab: there's an easy to use [script for Ubuntu 22.04](https://github.com/lkarlslund/deploy-goad) available, or visit the [GOAD lab repository](https://github.com/Orange-Cyberdefense/GOAD) directly
+Further reading: links to sites about [attacks on Active Directory](https://github.com/lkarlslund/adalanche#further-reading-on-active-directory-attacks)
 
 __HUGE THANKS to Orange Cyberdefense // Mayfly277 // contributors for providing the lab!__
 
